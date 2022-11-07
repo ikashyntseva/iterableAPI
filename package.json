@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Homework for Iterable API course on kobezzza channel",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "build": "tsc",
     "test": "jest"
