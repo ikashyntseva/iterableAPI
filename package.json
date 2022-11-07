@@ -1,0 +1,24 @@
+{
+  "name": "iterableapi",
+  "version": "1.0.0",
+  "description": "Homework for Iterable API course on kobezzza channel",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikashyntseva/iterableAPI.git"
+  },
+  "author": "Irina Kashyntseva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikashyntseva/iterableAPI/issues"
+  },
+  "homepage": "https://github.com/ikashyntseva/iterableAPI#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
